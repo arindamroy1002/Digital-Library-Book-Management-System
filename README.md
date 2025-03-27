@@ -1,7 +1,7 @@
-# Library Management System (Swing GUI)
+# Digital Library Book Management System 
 
 ## 📌 Overview
-The **Library Management System** is a **Java Swing GUI application** that enables librarians to efficiently manage a collection of books. This system allows users to **add, update, search, delete, and view books** in a graphical interface.
+The **Digital Library Book Management System** is a **Java Swing GUI application** that enables librarians to efficiently manage a collection of books. This system allows users to **add, update, search, delete, and view books** in a graphical interface.
 
 ## 🎯 Features
 ✅ **Add a Book** – Input Book ID, Title, Author, Genre, and Availability Status.
@@ -19,11 +19,11 @@ The **Library Management System** is a **Java Swing GUI application** that enabl
 ## 📦 Installation & Setup
 1. **Clone the repository** (or download the source code):
    ```sh
-   git clone https://github.com/your-repo/library-management-system.git
+   git clone https://github.com/arindamroy1002/Digital-Library-Book-Management-System.git
    ```
 2. **Navigate to the project folder**:
    ```sh
-   cd library-management-system
+   cd Digital-Library-Book-Management-System
    ```
 3. **Compile the Java program**:
    ```sh
